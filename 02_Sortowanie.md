@@ -31,4 +31,3 @@ Poniższa tabela zawiera **złożoność czasową średnią / oczekiwaną** oraz
 - $d$ – liczba cyfr (dla Radix Sort),  
 - $\lg n = \log_2 n$.
 
-Tabele są zgodne z analizami zamieszczonymi w rozdziałach 2, 6, 7 i 8 książki Cormena. Jeśli potrzebujesz dodatkowej kolumny z najlepszym przypadkiem, przykładów implementacji lub porównania w formie wykresu – daj znać!
