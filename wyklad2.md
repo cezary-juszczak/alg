@@ -2,9 +2,11 @@
 ## Wykład 2 - rekurencja i drzewa
 
 ## Lista jednokierunkowa
+
 $$
 L\to\fbox{3}\to\fbox{5}\to\fbox{1}\to\fbox{9}\to\fbox{10}\to{\rm NULL}
 $$
+
 Listę jednokierunkową stanowi tak naprawdę dowolny wskaźnik na strukturę `node` i funkcje `insert` i `remove` operujące  na takich wskaźnikach:
 ```cpp 
 struct node
